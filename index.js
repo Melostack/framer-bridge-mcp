@@ -138,3 +138,4 @@ run().catch((error) => {
     console.error("Erro ao iniciar o servidor:", error);
     process.exit(1);
 });
+//# sourceMappingURL=index.js.map

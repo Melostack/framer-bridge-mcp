@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
+  "type": "module", "scripts": { "build": "tsc" }, "dependencies": {
     "@modelcontextprotocol/sdk": "^1.26.0",
     "@types/node": "^25.2.2",
     "typescript": "^5.9.3",
